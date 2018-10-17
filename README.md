@@ -5,4 +5,5 @@ Halla máximo común divisor en iguales términos
 Halla números primos en una serie, o averigua si un número es primo
 Serie de Fibonacci
 Números de Fermat
-Números narcisistas
+Números Narcisistas
+Combinatoria: Variaciones, Permutaciones, Combinaciones
